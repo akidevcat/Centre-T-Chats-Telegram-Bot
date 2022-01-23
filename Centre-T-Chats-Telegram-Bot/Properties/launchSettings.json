@@ -1,0 +1,11 @@
+﻿{
+  "profiles": {
+    "Centre_T_Chats_Telegram_Bot": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
